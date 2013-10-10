@@ -1,5 +1,6 @@
 # node-i3
 [i3-ipc](http://i3wm.org/docs/ipc.html) client for [node.js](http://nodejs.org)
+Helps you to automate [ion window manager](http://i3wm.org/docs/userguide.html)
 
 [![NPM](https://nodei.co/npm/i3.png?downloads=true&stars=true)](https://nodei.co/npm/i3/)
 
