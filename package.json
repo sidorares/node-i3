@@ -1,0 +1,24 @@
+{
+  "name": "i3",
+  "version": "0.0.1",
+  "description": "I3WM (ion window manager) ipc client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidorares/node-i3"
+  },
+  "keywords": [
+    "ion", "i3", "i3wm", "automation", "ipc", "window manager"
+  ],
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "fastqueue": "~0.1.0"
+  },
+  "devDependencies": {
+    "mocha": ""
+  }
+}
