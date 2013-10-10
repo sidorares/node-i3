@@ -5,4 +5,7 @@ module.exports.createClient = module.exports.connect = function(options) {
   return cli;
 };
 
+I3IpcClient.prototype.command = function(arg, cb) {
+  this.message(0, arg, cb);
+}
 module.exports.I3IpcClient = I3IpcClient;
