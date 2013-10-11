@@ -11,7 +11,7 @@ Helps you to automate [ion window manager](http://i3wm.org/docs/userguide.html)
 ## API
 
 ```js
-var i3 = require('i3')
+var i3 = require('i3').createClient();
 i3.command('focus left');
 i3.on('workspace', function(w) {
   console.log('workspace event!', w);
