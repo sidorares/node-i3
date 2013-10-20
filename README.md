@@ -20,5 +20,6 @@ i3.on('workspace', function(w) {
 
 ## LINKS
   - [i3-ipc wire protocol documentation](http://i3wm.org/docs/ipc.html)
+  - [Another node.js client](https://github.com/badboy/node-i3)
   - [Python client](https://github.com/ziberna/i3-py)
   - [collection of helper python scripts](https://github.com/yiuin/i3-wm-scripts)
