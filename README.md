@@ -23,3 +23,5 @@ i3.on('workspace', function(w) {
   - [Another node.js client](https://github.com/badboy/node-i3)
   - [Python client](https://github.com/ziberna/i3-py)
   - [collection of helper python scripts](https://github.com/yiuin/i3-wm-scripts)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sidorares/node-i3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
