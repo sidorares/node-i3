@@ -13,7 +13,7 @@ I3IpcClient.prototype.workspaces = function(cb) {
   this.message(1, null, cb);
 };
 
-I3IpcClient.prototype.sbscribe = function(events) {
+I3IpcClient.prototype.subscribe = function(events, cb) {
   this.message(2, events, cb);
 };
 
