@@ -1,6 +1,6 @@
 {
   "name": "i3",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "I3WM (ion window manager) ipc client",
   "main": "index.js",
   "scripts": {
