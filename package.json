@@ -1,7 +1,7 @@
 {
   "name": "i3",
   "version": "0.1.1",
-  "description": "I3WM (ion window manager) ipc client",
+  "description": "i3 window manager ipc client",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
