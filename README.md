@@ -1,4 +1,6 @@
 # node-i3
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/node-i3.svg)](https://greenkeeper.io/)
 [i3-ipc](http://i3wm.org/docs/ipc.html) client for [node.js](http://nodejs.org)
 Helps you to automate [i3 window manager](http://i3wm.org/docs/userguide.html)
 
