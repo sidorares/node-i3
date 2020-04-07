@@ -1,6 +1,6 @@
 {
   "name": "i3",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "i3 window manager ipc client",
   "main": "index.js",
   "scripts": {
